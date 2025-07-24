@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(120deg, #f6f9ff, #d6e0f0);
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+input[type="number"] {
+  font-weight: bold;
+  text-align: center;
+}
